@@ -1,5 +1,5 @@
 <!-- # bootcamp-gostack-desafios -->
-![](../images/header.png)
+![](./images/header.png)
 
 <h3 align="center">  Desafio 2 - Conceitos NodeJs </h3>
 
@@ -9,7 +9,7 @@ Neste desafio foi proposto que fosse feito um crud de repositorios do Github.
 
 ### As rotas
 
-![](../images/rotas.PNG)
+![](./images/rotas.PNG)
 
 Um crud para quem não sabe é feito dos seguintes metodos:
 
